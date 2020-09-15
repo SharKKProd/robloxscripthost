@@ -1,0 +1,28 @@
+font {
+font-size: 32px
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	margin: 0;
+	padding: 0;
+}
+
+.backbtn {
+	font-size: 25px;
+	font-family: monospace;
+	color: #fff;
+	background: linear-gradient(to left, #1E9600, #FFF200, #FF0000);
+	text-decoration: none;
+	padding: 20px 70px;
+	border-radius: 10px;
+	background-size: 200%;
+	transition: .5s;
+}
+
+.backbtn:hover {
+	background-position: right;
+}
