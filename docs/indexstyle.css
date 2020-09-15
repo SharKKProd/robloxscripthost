@@ -54,3 +54,19 @@ body {
 .contactbtn:hover {
 	background-position: right;
 }
+
+.discordbtn {
+	font-size: 24px;
+	font-family: monospace;
+	color: #fff;
+	background: linear-gradient(to left, #c31432, #240b36);
+	text-decoration: none;
+	padding: 20px 365px;
+	border-radius: 10px;
+	background-size: 200%;
+	transition: .5s;
+}
+
+.discordbtn:hover {
+	background-position: right;
+}
