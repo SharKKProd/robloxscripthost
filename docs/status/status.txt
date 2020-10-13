@@ -1,1 +1,1 @@
-statusglobal = false -- true
+statusglobal = true -- true
