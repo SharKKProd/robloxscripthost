@@ -1,1 +1,1 @@
-local status = true
+status = true
